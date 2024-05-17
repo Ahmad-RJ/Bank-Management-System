@@ -10,6 +10,8 @@ The webpages were built on Visual Studio 2022 Community using C# and .NET Framew
 The database was built and tested on Microsoft SQL Server Management Studio 20.
 The ER Model and report were built on ERwin Data Modeler.
 # How to Run:
-1. Add the complete solution in Visual Studio.
-2. Create database on SQL Server Management Studio 20 and create tables, stored procedures and triggers manually.
-3. Link the database to the solution and run Homepage.aspx
+1. Make a new "ASP.NET Web Application (.NET Framework)" Solution named "DBProj" on Visual Studio 2022.
+2. Add all the webpages into the solution folder and then to the solution itself in Visual Studio 2022.
+3. Create database on SQL Server Management Studio 20 and create tables, stored procedures and triggers manually.
+4. Link the database to the solution by changing Server Name to your server name in web.config file of solution and run Homepage.aspx
+Note: If the solution does not run or gives out errors, try creating new Web Forms for all files with same names and copy paste each file respectively. You can also contact me on my email as well for any assistance.
