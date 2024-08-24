@@ -1,7 +1,7 @@
 # Bank-Management-System
 This project is about a Bank Management System on HTML/CSS complete with back end and front end (asp.net). The project also has an SQL database to be linked to.
 # Files
-DbProj.rar file is a zipped file of the complete solution of project.
+Webpages.rar file is a zipped file of all webpages.
 Database.sql file is SQL Database file for database along with all the Stored Procedures and Triggers (Note: The database is not public. Each person would have to create and run the database individually and link it manually to the asp.net files).
 Project Model.erwin is a ERwin Data Moduler file which has an Entity Relational Model (ER Model) of the project database.
 Project Report.docx file explains the ER Model of the project given in Project Model.erwin file.
